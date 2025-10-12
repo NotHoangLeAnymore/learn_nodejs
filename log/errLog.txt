@@ -1,0 +1,25 @@
+2025-10-03	18:51:01	9c0b4d8e-3683-4b26-aadb-ed95eb52e13f	TypeError	fsPromises.readFil is not a function
+2025-10-05	12:33:53	9a988685-3715-4886-b5f3-b636230188da	Error: Not allowed by CORS
+2025-10-05	12:51:41	746cb642-0fc2-4d11-a2ee-cdb96ae9a018	Error: Not allowed by CORS
+2025-10-05	12:54:30	a0db0c39-ef26-43e6-931b-05d853b00cf1	Error: Not allowed by CORS
+2025-10-05	12:58:26	0e699055-204f-4d11-9a19-c3d139f5b869	Error: Not allowed by CORS
+2025-10-08	11:17:39	0b3bb50a-721f-41e4-93c9-ea3c1cc00944	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Desktop\learn_nodejs\views\subdir\test.html'
+2025-10-08	11:17:45	3347cb05-f921-438b-bfb1-f4449186ec06	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Desktop\learn_nodejs\views\subdir\test.html'
+2025-10-08	11:18:40	c59e2c4f-2010-49a3-9ff8-89536db47b59	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Desktop\learn_nodejs\views\subdir\test.html'
+2025-10-08	11:45:53	12f75a27-76bb-47f4-8a1d-666ea13ba65b	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Desktop\learn_nodejs\routes\views\index.html'
+2025-10-08	11:46:32	86d1d29a-3450-48c4-8cc5-d8902b404b87	Error: ENOENT: no such file or directory, stat 'C:\Users\Admin\Desktop\learn_nodejs\routes\views\index.html'
+2025-10-08	15:16:27	ead4f4d6-1a3d-473b-a880-5dcb1187a1b7	TypeError: Cannot read properties of undefined (reading 'firstname')
+2025-10-08	15:16:39	a67c0682-8cd5-49ff-95c3-0c4d15d8c295	TypeError: Cannot read properties of undefined (reading 'firstname')
+2025-10-08	15:16:51	3f021fbb-2def-462b-952d-e39ff7d9efc7	TypeError: Cannot read properties of undefined (reading 'firstname')
+2025-10-08	23:00:05	c28db042-abd4-46b5-a689-5cc7f8f8dcb6	TypeError: Cannot read properties of undefined (reading 'firstname')
+2025-10-08	23:00:22	658671e8-4375-49f8-b132-afdb24749d65	TypeError: Cannot read properties of undefined (reading 'firstname')
+2025-10-09	18:07:28	2c486162-add9-4541-8f9c-283ff3c49ac3	ReferenceError: filteredArray is not defined
+2025-10-09	18:07:32	21169b32-7199-4cb0-aafb-b014303c9299	SyntaxError: Expected double-quoted property name in JSON at position 18 (line 4 column 3)
+2025-10-09	18:07:36	9dffbc76-9f64-421d-b587-ae02d07dacf6	ReferenceError: filteredArray is not defined
+2025-10-09	18:07:44	f943df6b-c923-4566-9c8a-98213be50acf	ReferenceError: filteredArray is not defined
+2025-10-09	18:12:33	34f792f4-fc59-4bd3-8855-008502b71b9b	ReferenceError: filteredArray is not defined
+2025-10-09	18:14:37	18957c78-bab2-479c-b04e-d6b8536982ff	ReferenceError: filteredArray is not defined
+2025-10-11	17:44:01	1b11ef95-5579-4eac-9f51-d0f1bf24a9a2	TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2025-10-11	17:48:00	b5771a8e-7c37-46b7-9fcc-9735ff5e698a	Error: Not allowed by CORS
+2025-10-11	17:55:18	414169b7-4726-4f5b-bc2b-e0abada8dcff	Error: Not allowed by CORS
+2025-10-12	00:07:42	ae3cd5d7-5123-4322-931b-91ff054da784	Error: Cannot set headers after they are sent to the client

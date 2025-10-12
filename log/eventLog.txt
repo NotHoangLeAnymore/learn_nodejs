@@ -1,0 +1,2 @@
+2025-10-03	13:43:26	0a53d73e-fb1f-43d6-b414-1b85ba71648e	This is a test message
+2025-10-03	13:48:13	02f241f1-9fc7-480f-b492-624786c1e81c	Log event emitted!
