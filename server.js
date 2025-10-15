@@ -6,7 +6,7 @@ const path = require("path");
 const corsOptions = require("./config/corsOptions");
 const verifyJWT = require("./middleware/verifyJWT");
 const cookieParser = require("cookie-parser");
-const credentials = require("./middleware/credentials");
+// const credentials = require("./middleware/credentials");
 const app = express();
 const PORT = process.env.PORT || 3500;
 
@@ -15,7 +15,7 @@ app.use(logger);
 
 // Handle options credentials check - before CORS!
 // and fetch cookies credentials requirement
-app.use(credentials);
+// app.use(credentials);
 
 // cross origin resource sharing
 app.use(cors(corsOptions));
@@ -39,7 +39,7 @@ app.use("/auth", require("./routes/api/auth"));
 app.use("/refresh", require("./routes/api/refresh"));
 app.use("/logout", require("./routes/api/logout"));
 
-app.use(verifyJWT);
+// app.use(verifyJWT);
 app.use("/employees", require("./routes/api/employees"));
 
 app.all(/.*/, (req, res) => {

@@ -23,3 +23,9 @@
 2025-10-11	17:48:00	b5771a8e-7c37-46b7-9fcc-9735ff5e698a	Error: Not allowed by CORS
 2025-10-11	17:55:18	414169b7-4726-4f5b-bc2b-e0abada8dcff	Error: Not allowed by CORS
 2025-10-12	00:07:42	ae3cd5d7-5123-4322-931b-91ff054da784	Error: Cannot set headers after they are sent to the client
+2025-10-14	19:09:45	26f7ecd1-3d2c-463f-8873-8bd067936676	Error: Not allowed by CORS
+2025-10-14	19:11:21	473a74d6-8488-49d1-8060-537015cbfbd6	Error: Not allowed by CORS
+2025-10-14	19:13:17	5998ac7a-717a-4dc9-ae97-5ab4415db14e	TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2025-10-14	19:14:57	c18c7d39-4780-466f-a09d-e7a185ba5307	TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2025-10-14	19:15:50	595c7c5d-2833-4318-8218-fa8cc177b3d1	TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
+2025-10-14	19:16:33	e6049ee0-eb61-44e7-baa7-4d04c8ea342a	TypeError: Cannot convert undefined or null to object
