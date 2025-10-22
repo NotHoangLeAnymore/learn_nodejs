@@ -29,3 +29,5 @@
 2025-10-14	19:14:57	c18c7d39-4780-466f-a09d-e7a185ba5307	TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
 2025-10-14	19:15:50	595c7c5d-2833-4318-8218-fa8cc177b3d1	TypeError: Cannot destructure property 'user' of 'req.body' as it is undefined.
 2025-10-14	19:16:33	e6049ee0-eb61-44e7-baa7-4d04c8ea342a	TypeError: Cannot convert undefined or null to object
+2025-10-20	12:35:50	447dca76-1293-49b7-8f6a-afa5625915ce	TypeError: Cannot convert undefined or null to object
+2025-10-21	11:25:31	2d4500dc-80b7-4df8-b118-f5c5b3945b05	TypeError: res.senStatus is not a function

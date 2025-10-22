@@ -8,7 +8,7 @@ router
   .route("/")
   .get(employeesController.getAllEmployees)
   .post(
-    // verifyRoles(ROLES_LIST.Admin, ROLES_LIST.Editor),
+    verifyRoles(ROLES_LIST.Admin, ROLES_LIST.Editor),
     employeesController.createNewEmployee
   )
   .put(
